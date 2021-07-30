@@ -1,11 +1,11 @@
 # Major Project Tasks:
 
-1.	Perform Scanning Module by using Nmap tool (Download from Internet) and scan Kali Linux and Windows 7 machine and find the open/closed ports and services running on machine.
+1.	Perform Scanning Module by using Nmap tool (Download from Internet) and scan Kali Linux and Windows 7 machine and find the open/closed ports and services running on machine./n
 Hacker Machine: Windows 10
 Victim Machine: Kali Linux and Windows 7
 
 
-2.	Test the System Security by using Metasploit Tool from Kali Linux and hack the Windows 7 / Windows 10. Execute the commands to get the keystrokes / screenshots / Webcam and etc. Write a report on vulnerability issue along with screenshots how you performed and suggest the security patch to avoid these type of attacks
+2.	Test the System Security by using Metasploit Tool from Kali Linux and hack the Windows 7 / Windows 10. Execute the commands to get the keystrokes / screenshots / Webcam and etc. Write a report on vulnerability issue along with screenshots how you performed and suggest the security patch to avoid these type of attacks./n
 Hacker Machine: Kali Linux
 Victim Machine: Windows XP / Windows 7
 
