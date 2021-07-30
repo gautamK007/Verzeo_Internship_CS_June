@@ -14,4 +14,4 @@ Victim machine : Windows XP / Windows 7
 
 6. Clone a Facebook page and try to perform Desktop Phishing in your local machine and capture the credentials and write the document along with screenshots and suggest the solution to avoid from phishing.
 
-7. Write article on how to change the IP address by using proxies and mention the differences between proxies and VPN
+7. Write article on how to change the IP address by using proxies and mention the differences between proxies and VPN.
