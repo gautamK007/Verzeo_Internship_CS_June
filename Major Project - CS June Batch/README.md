@@ -17,6 +17,6 @@ Victim Machine: Windows XP / Windows 7 / Windows 10
 
 5.	Try to perform Bypass Authentication on https://demo.testfire.net and mention the payload which you used to bypass and mention preventive steps to avoid this attack.
 
-6.	Write an article on cybersecurity and recent attacks which you came across in media and news and research on that news, and explain the any topic which you learned in this course and mention what you learned.
+6.	Write an article on cybersecurity and recent attacks which you came across in media and news and research on that news, and explain any topic which you learned in this course and mention what you learned.
 
 7.	Perform DOS attack on Windows 7 virtual machine and see the difference in performance of victim machine and mention the preventive measures to avoid DOS attack.
